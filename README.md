@@ -24,3 +24,5 @@ cd Agenda-de-reunioes
 ```ruby
 ruby agenda_reunioes.rb 
 ```
+# Tecnologias utilizadas
+* Ruby
